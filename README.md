@@ -57,7 +57,8 @@
 | 2022 | | Graph Alignment with Noisy Supervision | WWW | | |
 | 2022 | | Uncertainty-aware Pseudo Label Refinery for Entity Alignment | WWW | | |
 | 2022 | SelfKG | SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs | WWW | | [[Code]](https://github.com/THUDM/SelfKG) |
-| 2022 | ContEA| Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs | ISWC   |       |  |
+| 2022 | ContEA| Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs | ISWC   |    |  |
+| 2022 | | Semantics Driven Embedding Learning for Effective Entity Alignment | ICDE | | |
 | 2022 | | Large-scale Entity Alignment via Knowledge Graph Merging, Partitioning and Embedding | CIKM | | |
 | 2022 | | Multi-modal Contrastive Representation Learning for Entity Alignment | COLING | | |
 | 2022 | RoadEA | Revisiting Embedding-based Entity Alignment: A Robust and Adaptive Method | TKDE | | |
