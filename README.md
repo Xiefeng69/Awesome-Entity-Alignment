@@ -37,6 +37,7 @@
 | 2020 | MRAEA | MRAEA: An efficient and robust entity alignment approach for cross-lingual knowledge graph | WSDM | | |
 | 2020 | REA | Relational Reflection Entity Alignment | CIKM | | |
 | 2020 | CEA | Collective entity alignment via adaptive features | ICDE | | |
+| 2020 | JarKA | JarKA: Modeling Attribute Interactions for Cross-lingual Knowledge Alignment | PAKDD | | [[code]](https://github.com/allanchen95/PAKDD-20-JarKA) |
 | 2020 | | Entity Alignment for Knowledge Graphs with Multi-order Convolutional Networks | TKDE | | |
 | 2021 | | Network Alignment with Holistic Embeddings | TKDE | | |
 | 2021 | | Towards Entity Alignment in the Open World: An Unsupervised Approach | DASFAA | | |
