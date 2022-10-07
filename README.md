@@ -55,6 +55,7 @@
 | 2022 | IMEA| Informed multi-context entity alignment | WSDM | | |
 | 2022 | | Graph Alignment with Noisy Supervision | WWW | | |
 | 2022 | | Uncertainty-aware Pseudo Label Refinery for Entity Alignment | WWW | | |
+| 2022 | | SelfKG: Self-Supervised Entity Alignment in Knowledge Graphs | WWW | | |
 | 2022 | ContEA| Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs | ISWC   |       |  |
 | 2022 | | Large-scale Entity Alignment via Knowledge Graph Merging, Partitioning and Embedding | CIKM | | |
 | 2022 | | Multi-modal Contrastive Representation Learning for Entity Alignment | COLING | | |
