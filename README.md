@@ -13,22 +13,23 @@
 | Year | Abbr. | Title                                                        | Venue   | Paper                                                        | Code                                                         |
 | ---- | ---- | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2017 | MTransE | Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment | IJCAI | | |
-| 2017 | | Iterative Entity Alignment via Knowledge Embeddings | IJCAI | | |
+| 2017 | IPTransE | Iterative Entity Alignment via Knowledge Embeddings | IJCAI | | |
 | 2017 | JAPE | Cross-lingual entity alignment via joint attribute-preserving embedding | ISWC | | |
 | 2018 | BootEA | Bootstrapping Entity Alignment with Knowledge Graph Embedding | IJCAI | | |
 | 2018 | GCN-Align |Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks | EMNLP | | |
-| 2019 | RSN | Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs | ICML | | |
+| 2019 | RSNs | Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs | ICML | | |
 | 2019 | | Two-stage entity alignment: Combining hybrid knowledge graph embedding with similarity-based relation alignment | PRICAI | | |
 | 2019 | AliNet | Knowledge Graph Alignment Network with Gated Multi-Hop Neighborhood Aggregation | AAAI | | |
 | 2019 | | Entity Alignment between Knowledge Graphs Using Attribute | AAAI | | |
-| 2019 | | Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network | ACL | | |
+| 2019 | GMNN | Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network | ACL | | |
 | 2019 | MuGNN | Multi-Channel Graph Neural Network for Entity Alignment | ACL | | |
+| 2019 | RDGCN | Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs | ACL | | |
 | 2019 | TransEdge | TransEdge: Translating Relation-Contextualized Embeddings for Knowledge Graphs | ISWC | | |
 | 2019 | HMAN | Aligning Cross-Lingual Entities with Multi-Aspect Information | EMNLP | | |
 | 2019 | | Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model | EMNLP | | |
-| 2019 | | Jointly Learning Entity and Relation Representations for Entity Alignment | EMNLP | | |
+| 2019 | HGCN | Jointly Learning Entity and Relation Representations for Entity Alignment | EMNLP | | |
 | 2019 | MultiKE| Multi-view Knowledge Graph Embedding for Entity Alignment | IJCAI | | |
-| 2019 | | Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs| IJCAI | | |
+| 2019 | NAEA | Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs| IJCAI | | |
 | 2020 | DAT| Degree-Aware Alignment for Entities in Tail | SIGIR | | |
 | 2020 | NMN| Neighborhood Matching Network for Entity Alignment | ACL | | |
 | 2020 | REA| Robust Cross-lingual Entity Alignment between Knowledge Graphs | KDD | | |
@@ -46,7 +47,7 @@
 | 2021 | EASY |Make It Easy: An Effective End-to-End Entity Alignment Framework | SIGIR | | |
 | 2021 | LargeEA | LargeEA: Aligning Entities for Large-scale Knowledge Graphs | VLDB | | |
 | 2021 | RAC | Reinforced Active Entity Alignment | CIKM | | |
-| 2021 | | Are Negative Samples Necessary in Entity Alignment?: An Approach with High Performance, Scalability and Robustness | CIKM | | |
+| 2021 | PSR | Are Negative Samples Necessary in Entity Alignment?: An Approach with High Performance, Scalability and Robustness | CIKM | | |
 | 2021 | | Boosting the speed of entity alignment 10X: dual attention matching network with normalized hard sample mining | WWW | | |
 | 2022 | | Ensemble Semi-supervised Entity Alignment via Cycle-teaching | AAAI | | |
 | 2022 | | Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment | ACL | | |
