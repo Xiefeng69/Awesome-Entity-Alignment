@@ -5,6 +5,7 @@
 | Year | Title                                                        | Venue   | Paper                                                        | Code                                                         |
 | ---- | ------------------------------------------------------------ | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2020 | A benchmarking study of embedding-based entity alignment for knowledge graphs | VLDB | | |
+| 2021 | A comprehensive survey of entity alignment for knowledge graphs | AI Open | | |
 | 2022 | An Experimental Study of State-of-the-Art Entity Alignment Approaches | TKDE | | |
 
 
