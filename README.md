@@ -22,6 +22,7 @@
 | 2019 | | Two-stage entity alignment: Combining hybrid knowledge graph embedding with similarity-based relation alignment | PRICAI | | |
 | 2019 | AliNet | Knowledge Graph Alignment Network with Gated Multi-Hop Neighborhood Aggregation | AAAI | | |
 | 2019 | | Entity Alignment between Knowledge Graphs Using Attribute | AAAI | | |
+| 2019 | SEA | Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference | | |
 | 2019 | GMNN | Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network | ACL | | |
 | 2019 | MuGNN | Multi-Channel Graph Neural Network for Entity Alignment | ACL | | |
 | 2019 | RDGCN | Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs | ACL | | |
