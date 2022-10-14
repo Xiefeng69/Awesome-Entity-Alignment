@@ -50,6 +50,7 @@
 | 2021 | LargeEA | LargeEA: Aligning Entities for Large-scale Knowledge Graphs | VLDB | | |
 | 2021 | RAC | Reinforced Active Entity Alignment | CIKM | | |
 | 2021 | PSR | Are Negative Samples Necessary in Entity Alignment?: An Approach with High Performance, Scalability and Robustness | CIKM | | |
+| 2021 | KE-GCN | Knowledge Embedding Based Graph Convolutional Network | WWW | | |
 | 2021 | | Boosting the speed of entity alignment 10X: dual attention matching network with normalized hard sample mining | WWW | | |
 | 2022 | | Ensemble Semi-supervised Entity Alignment via Cycle-teaching | AAAI | | |
 | 2022 | | Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment | ACL | | |
