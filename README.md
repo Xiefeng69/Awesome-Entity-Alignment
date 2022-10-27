@@ -52,6 +52,7 @@
 | 2021 | PSR | Are Negative Samples Necessary in Entity Alignment?: An Approach with High Performance, Scalability and Robustness | CIKM | | |
 | 2021 | KE-GCN | Knowledge Embedding Based Graph Convolutional Network | WWW | | |
 | 2021 | | Boosting the speed of entity alignment 10X: dual attention matching network with normalized hard sample mining | WWW | | |
+| 2022 | | Temporal Knowledge Graph Entity Alignment via Representation Learning | DASFAA | | |
 | 2022 | | Ensemble Semi-supervised Entity Alignment via Cycle-teaching | AAAI | | |
 | 2022 | | Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment | ACL | | |
 | 2022 | | An Effective and Efficient Entity Alignment Decoding Algorithm via Third-Order Tensor Isomorphism | ACL | | |
@@ -64,6 +65,7 @@
 | 2022 | ContEA| Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs | ISWC   |    |  |
 | 2022 | | Semantics Driven Embedding Learning for Effective Entity Alignment | ICDE | | |
 | 2022 | | Large-scale Entity Alignment via Knowledge Graph Merging, Partitioning and Embedding | CIKM | | |
+| 2022 | | Interactive Contrastive Learning for Self-Supervised Entity Alignment | CIKM | | |
 | 2022 | | Multi-modal Contrastive Representation Learning for Entity Alignment | COLING | | |
 | 2022 | RoadEA | Revisiting Embedding-based Entity Alignment: A Robust and Adaptive Method | TKDE | | |
 | 2022 | | A multiscale convolutional gragh network using only structural information for entity alignment | Applied Intelligence | | |
